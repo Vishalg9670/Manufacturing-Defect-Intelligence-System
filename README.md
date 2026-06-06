@@ -1,4 +1,3 @@
-# Manufacturing-Defect-Intelligence-System
 # Manufacturing Defect Intelligence System
 
 ## Project Overview
